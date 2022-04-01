@@ -1,3 +1,3 @@
 # Multithreading applications 
 
-1. Sorting-DSA-with-GUI---Multithread
+1. Sorting algo-with-GUI 

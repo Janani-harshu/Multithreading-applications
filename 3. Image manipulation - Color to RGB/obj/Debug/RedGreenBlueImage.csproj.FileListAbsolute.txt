@@ -1,0 +1,10 @@
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.csprojAssemblyReference.cache
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.Form1.resources
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.Properties.Resources.resources
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.csproj.GenerateResource.cache
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.csproj.CoreCompileInputs.cache
+D:\c# workspace\RedGreenBlueImage\bin\Debug\RedGreenBlueImage.exe.config
+D:\c# workspace\RedGreenBlueImage\bin\Debug\RedGreenBlueImage.exe
+D:\c# workspace\RedGreenBlueImage\bin\Debug\RedGreenBlueImage.pdb
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.exe
+D:\c# workspace\RedGreenBlueImage\obj\Debug\RedGreenBlueImage.pdb
